@@ -15,4 +15,4 @@ function adicionarLog(nomeAluno){
     });
 }
 
-adicionarLog("Beatriz Becker Feldman")
+adicionarLog("Bia")
